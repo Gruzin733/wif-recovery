@@ -14,7 +14,6 @@ import time
 from logging import Formatter
 from random import choice, randint
 import bitcoin
-from bloomfilter import BloomFilter
 from datetime import datetime
 import secp256k1_lib
 
